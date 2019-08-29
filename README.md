@@ -14,7 +14,7 @@
 
 
 ## Instructions
-
+<%>
 The two specs for this lab that are currently failing are located within the `form page` feature in `specs/features/student_spec.rb`.
 
 At a high level, you need to build a form to create a new student, have the form redirect back to the `new` view template, and print out the form params to the screen. Below are a few items to keep in mind:
